@@ -4,7 +4,7 @@
 
 ## ★前端
 
-- [JS](https://ppambler.github.io/js/)
+- [JS](https://ppambler.github.io/zf-fe/02-JS/)
 - [Vue](https://ppambler.github.io/vue/)
 - [React](https://ppambler.github.io/react/)
 - [TypeScript](https://ppambler.github.io/typescript/)
