@@ -1,4 +1,4 @@
-# Blog
+# [Blog](https://github.com/ppambler/blog)
 
 > 之前的：[fe-learn-2018](https://ppambler.github.io/fe-learn-2018/)、[xdmala](https://ppambler.github.io/xdmala/)
 
