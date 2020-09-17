@@ -9,3 +9,4 @@
 - [React](https://ppambler.github.io/react/)
 - [TypeScript](https://ppambler.github.io/typescript/)
 - [Node.js](https://ppambler.github.io/nodejs/)
+- [Design Patterns](https://ppambler.github.io/design-patterns/)
