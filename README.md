@@ -9,5 +9,9 @@
 - [React](https://ppambler.github.io/react/)
 - [Node.js](https://ppambler.github.io/nodejs/)
 - [TypeScript](https://ppambler.github.io/typescript/)
+- [Mini Program](https://ppambler.github.io/mini-program/)
 - [Design Patterns](https://ppambler.github.io/design-patterns/)
+
+## ★计算机基础知识
+
 - [Data Structures and Algorithms](https://ppambler.github.io/algorithms/)
