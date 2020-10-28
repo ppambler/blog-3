@@ -12,6 +12,6 @@
 - [Mini Program](https://ppambler.github.io/mini-program/)
 - [Design Patterns](https://ppambler.github.io/design-patterns/)
 
-## ★计算机基础知识
+## ★计算机专业课
 
 - [Data Structures and Algorithms](https://ppambler.github.io/algorithms/)
