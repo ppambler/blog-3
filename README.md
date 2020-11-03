@@ -17,3 +17,7 @@
 ## ★计算机专业课
 
 - [Data Structures and Algorithms](https://ppambler.github.io/algorithms/)
+
+## ★管理 & 效率
+
+
