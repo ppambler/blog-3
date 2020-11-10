@@ -20,6 +20,8 @@
 
 ## ★管理 & 效率
 
+- [VS Code](https://ppambler.github.io/management-efficiency/tools/vscode/)
+
 ## ★简历 & 面试
 
 - [Resume](https://ppambler.github.io/resume-interview/01/)
